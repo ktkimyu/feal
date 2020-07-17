@@ -1,1 +1,1 @@
-# feal
+# Finite Element Analysis Library
